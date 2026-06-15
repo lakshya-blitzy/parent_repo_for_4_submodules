@@ -1,0 +1,3 @@
+[submodule "parent_repo_for_4_submodules"]
+	path = parent_repo_for_4_submodules
+	url = https://github.com/lakshya-blitzy/parent_repo_for_4_submodules.git
