@@ -3,12 +3,3 @@ node_modules/
 
 # npm debug logs
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Diagnostic reports
-.npm
-
-# Environment files
-.env
-.env.local
