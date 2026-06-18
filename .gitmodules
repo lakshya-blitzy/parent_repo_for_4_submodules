@@ -1,6 +1,3 @@
-[submodule "parent_repo_for_4_submodules"]
-	path = parent_repo_for_4_submodules
-	url = https://github.com/lakshya-blitzy/parent_repo_for_4_submodules.git
 [submodule "first_child_repo_for_submodule_hello_world"]
 	path = first_child_repo_for_submodule_hello_world
 	url = https://github.com/lakshya-blitzy/first_child_repo_for_submodule_hello_world.git
